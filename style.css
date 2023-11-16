@@ -1,0 +1,70 @@
+.hero{
+    background-color: #FFCD9E;
+}
+
+.left{
+    width: 50%;
+    float: left;
+    margin-left: 10%;
+    margin-top: 5%;
+    max-width: 40%;
+}
+
+#h2tag{
+    width: 80%;
+}
+
+#ptag{
+    width: 60%;
+}
+
+.email{
+    border-color: black;
+    border-radius: 4px;
+    height:30px;
+    width: 270px;
+}
+
+button{
+    border-color: black;
+    background-color: black;
+    color: white;
+    border-radius: 4px;
+    height:35px;
+    width: 150px;
+}
+
+.right{
+    width: 42%; 
+    display:inline-block;
+    text-align:  right;
+}
+
+.footer{
+    background-color: black;
+}
+
+ul li{
+    padding: 3px;
+}
+
+.footer-left{
+    margin-top: 2.5%;
+    margin-bottom: 2.5%;
+    float: left;
+    color:white;
+    margin-left: 10%;
+}
+
+.footer-right{
+    width: 60%;
+    margin-top: 2.5%;
+    margin-bottom: 2.5%;
+    display:inline-block;  
+    text-align: right;
+    color:white;
+}
+
+ul {
+    list-style-type: none;
+  }
